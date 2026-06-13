@@ -1,6 +1,6 @@
 # License
 
-**Cuando el tiempo se detuvo**
+**Cuando el tiempo se detuvo, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

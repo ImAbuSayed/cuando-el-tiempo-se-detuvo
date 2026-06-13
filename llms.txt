@@ -1,4 +1,4 @@
-# Cuando el tiempo se detuvo
+# Cuando el tiempo se detuvo, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Cuando el tiempo se detuvo |
+| **Title** | Cuando el tiempo se detuvo, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuando-el-tiempo-se-detuvo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Cuando el tiempo se detuvo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-el-tiempo-se-detuvo/) |
+| **Get License** | [Obtain a Music License for Cuando el tiempo se detuvo, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuando-el-tiempo-se-detuvo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> La disco se apaga y el tiempo se detiene
+> Tú tienes el flow que mi mente entretiene
+> Nos miramos de lejos cruzando el VIP
+> Sabiendo que esta noche te vas junto a mí
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c9add2aca01d427e3d682f5d82da5edbf39403439161105c981813af609af2a2` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
